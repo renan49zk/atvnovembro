@@ -27,10 +27,14 @@ namespace Projetopetcare
         }
 
         private void btnvoltar_Click(object sender, EventArgs e)
+<<<<<<< HEAD
         {
             frmMenuprincipal voltar = new frmMenuprincipal();
                 voltar.Show();
             this.Hide();
+=======
+        { 
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
 
         }
     }

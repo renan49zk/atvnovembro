@@ -60,21 +60,35 @@
             // 
             // txtcodigo
             // 
+<<<<<<< HEAD
             this.txtcodigo.Location = new System.Drawing.Point(232, 175);
             this.txtcodigo.Name = "txtcodigo";
             this.txtcodigo.Size = new System.Drawing.Size(201, 26);
+=======
+            this.txtcodigo.Location = new System.Drawing.Point(109, 169);
+            this.txtcodigo.Name = "txtcodigo";
+            this.txtcodigo.Size = new System.Drawing.Size(193, 26);
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             this.txtcodigo.TabIndex = 5;
             // 
             // txtidade
             // 
+<<<<<<< HEAD
             this.txtidade.Location = new System.Drawing.Point(232, 118);
+=======
+            this.txtidade.Location = new System.Drawing.Point(101, 118);
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             this.txtidade.Name = "txtidade";
             this.txtidade.Size = new System.Drawing.Size(201, 26);
             this.txtidade.TabIndex = 4;
             // 
             // txtnome
             // 
+<<<<<<< HEAD
             this.txtnome.Location = new System.Drawing.Point(232, 72);
+=======
+            this.txtnome.Location = new System.Drawing.Point(101, 66);
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             this.txtnome.Name = "txtnome";
             this.txtnome.Size = new System.Drawing.Size(201, 26);
             this.txtnome.TabIndex = 3;
@@ -82,8 +96,13 @@
             // label3
             // 
             this.label3.AutoSize = true;
+<<<<<<< HEAD
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(147, 178);
+=======
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(44, 172);
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(59, 20);
             this.label3.TabIndex = 2;
@@ -92,8 +111,13 @@
             // label2
             // 
             this.label2.AutoSize = true;
+<<<<<<< HEAD
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(147, 124);
+=======
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(44, 121);
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(50, 20);
             this.label2.TabIndex = 1;
@@ -102,8 +126,13 @@
             // lblbnome
             // 
             this.lblbnome.AutoSize = true;
+<<<<<<< HEAD
             this.lblbnome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblbnome.Location = new System.Drawing.Point(147, 72);
+=======
+            this.lblbnome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblbnome.Location = new System.Drawing.Point(44, 72);
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             this.lblbnome.Name = "lblbnome";
             this.lblbnome.Size = new System.Drawing.Size(51, 20);
             this.lblbnome.TabIndex = 0;
@@ -112,7 +141,11 @@
             // btnnovo
             // 
             this.btnnovo.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+<<<<<<< HEAD
             this.btnnovo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+=======
+            this.btnnovo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             this.btnnovo.Location = new System.Drawing.Point(111, 371);
             this.btnnovo.Name = "btnnovo";
             this.btnnovo.Size = new System.Drawing.Size(162, 48);
@@ -124,7 +157,11 @@
             // btnlimpar
             // 
             this.btnlimpar.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+<<<<<<< HEAD
             this.btnlimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+=======
+            this.btnlimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             this.btnlimpar.Location = new System.Drawing.Point(307, 371);
             this.btnlimpar.Name = "btnlimpar";
             this.btnlimpar.Size = new System.Drawing.Size(162, 48);
@@ -136,7 +173,11 @@
             // btnvoltar
             // 
             this.btnvoltar.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+<<<<<<< HEAD
             this.btnvoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+=======
+            this.btnvoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             this.btnvoltar.Location = new System.Drawing.Point(500, 371);
             this.btnvoltar.Name = "btnvoltar";
             this.btnvoltar.Size = new System.Drawing.Size(162, 48);

@@ -64,6 +64,7 @@
     <Compile Include="frmcliente.Designer.cs">
       <DependentUpon>frmcliente.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="frmMenuprincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +76,13 @@
     </Compile>
     <Compile Include="frmveterinario.Designer.cs">
       <DependentUpon>frmveterinario.cs</DependentUpon>
+=======
+    <Compile Include="frmmenuprincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmenuprincipal.Designer.cs">
+      <DependentUpon>frmmenuprincipal.cs</DependentUpon>
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -87,11 +95,16 @@
     <EmbeddedResource Include="frmcliente.resx">
       <DependentUpon>frmcliente.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="frmMenuprincipal.resx">
       <DependentUpon>frmMenuprincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmveterinario.resx">
       <DependentUpon>frmveterinario.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="frmmenuprincipal.resx">
+      <DependentUpon>frmmenuprincipal.cs</DependentUpon>
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

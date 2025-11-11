@@ -34,7 +34,11 @@ namespace Projetopetcare
 
             if (usuario == "admin" & senha == 123)
             {
+<<<<<<< HEAD
                 frmMenuprincipal abrir = new frmMenuprincipal();
+=======
+                frmmenuprincipal abrir = new frmmenuprincipal();
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
                 abrir.Show();
                 this.Hide();
             }
@@ -45,4 +49,8 @@ namespace Projetopetcare
 
         }
     }
+<<<<<<< HEAD
     }
+=======
+}
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b

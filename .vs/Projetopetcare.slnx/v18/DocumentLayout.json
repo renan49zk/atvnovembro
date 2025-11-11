@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\",
   "Documents": [
     {
@@ -37,6 +38,41 @@
     {
       "AbsoluteMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|c:\\users\\renan\\downloads\\atvnovembro-main\\projetopetcare\\frmveterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|solutionrelative:projetopetcare\\frmveterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|c:\\users\\servidor\\desktop\\projetopetcare\\projetopetcare\\frmanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|solutionrelative:projetopetcare\\frmanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\projetopetcare\\frmanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|solutionrelative:projetopetcare\\frmanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\projetopetcare\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|solutionrelative:projetopetcare\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|c:\\users\\servidor\\desktop\\projetopetcare\\projetopetcare\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|solutionrelative:projetopetcare\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|c:\\users\\servidor\\desktop\\projetopetcare\\projetopetcare\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|solutionrelative:projetopetcare\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\projetopetcare\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|solutionrelative:projetopetcare\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|c:\\users\\servidor\\desktop\\projetopetcare\\projetopetcare\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|solutionrelative:projetopetcare\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\projetopetcare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{892566ED-B6CB-400B-9969-441F37643192}|Projetopetcare\\Projetopetcare.csproj|solutionrelative:projetopetcare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
     }
   ],
   "DocumentGroupContainers": [
@@ -50,6 +86,7 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "frmcliente.cs",
               "DocumentMoniker": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\frmcliente.cs",
@@ -57,12 +94,22 @@
               "ToolTip": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\frmcliente.cs",
               "RelativeToolTip": "Projetopetcare\\frmcliente.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAUwDYAAAABAAAAAAAAAA==",
+=======
+              "DocumentIndex": 6,
+              "Title": "frmcliente.cs",
+              "DocumentMoniker": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmcliente.cs",
+              "RelativeDocumentMoniker": "Projetopetcare\\frmcliente.cs",
+              "ToolTip": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmcliente.cs",
+              "RelativeToolTip": "Projetopetcare\\frmcliente.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDYAAAABAAAAAAAAAA==",
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T19:49:33.113Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+<<<<<<< HEAD
               "$type": "Bookmark",
               "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
@@ -74,17 +121,47 @@
               "RelativeDocumentMoniker": "Projetopetcare\\frmMenuprincipal.cs",
               "ToolTip": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\frmMenuprincipal.cs [Design]",
               "RelativeToolTip": "Projetopetcare\\frmMenuprincipal.cs [Design]",
+=======
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmmenuprincipal.cs",
+              "DocumentMoniker": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmmenuprincipal.cs",
+              "RelativeDocumentMoniker": "Projetopetcare\\frmmenuprincipal.cs",
+              "ToolTip": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmmenuprincipal.cs",
+              "RelativeToolTip": "Projetopetcare\\frmmenuprincipal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:09:19.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmmenuprincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmmenuprincipal.cs",
+              "RelativeDocumentMoniker": "Projetopetcare\\frmmenuprincipal.cs",
+              "ToolTip": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmmenuprincipal.cs [Design]",
+              "RelativeToolTip": "Projetopetcare\\frmmenuprincipal.cs [Design]",
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:51:44.042Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "frmanimal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\frmanimal.cs",
               "RelativeDocumentMoniker": "Projetopetcare\\frmanimal.cs",
               "ToolTip": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\frmanimal.cs [Design]",
+=======
+              "DocumentIndex": 1,
+              "Title": "frmanimal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmanimal.cs",
+              "RelativeDocumentMoniker": "Projetopetcare\\frmanimal.cs",
+              "ToolTip": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmanimal.cs [Design]",
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
               "RelativeToolTip": "Projetopetcare\\frmanimal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:52:21.547Z",
@@ -93,6 +170,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\Form1.cs",
               "RelativeDocumentMoniker": "Projetopetcare\\Form1.cs",
@@ -101,10 +179,22 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:51:16.643Z",
               "EditorCaption": " [Design]"
+=======
+              "Title": "frmanimal.cs",
+              "DocumentMoniker": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmanimal.cs",
+              "RelativeDocumentMoniker": "Projetopetcare\\frmanimal.cs",
+              "ToolTip": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmanimal.cs",
+              "RelativeToolTip": "Projetopetcare\\frmanimal.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:07:59.168Z",
+              "EditorCaption": ""
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
               "Title": "frmveterinario.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\frmveterinario.cs",
               "RelativeDocumentMoniker": "Projetopetcare\\frmveterinario.cs",
@@ -113,14 +203,31 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T19:10:41.723Z",
               "EditorCaption": " [Design]"
+=======
+              "Title": "frmmenuprincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmmenuprincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Projetopetcare\\frmmenuprincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmmenuprincipal.Designer.cs",
+              "RelativeToolTip": "Projetopetcare\\frmmenuprincipal.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwDAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:28:40.514Z",
+              "EditorCaption": ""
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "frmcliente.cs [Design]",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\frmcliente.cs",
               "RelativeDocumentMoniker": "Projetopetcare\\frmcliente.cs",
               "ToolTip": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\frmcliente.cs [Design]",
+=======
+              "DocumentMoniker": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmcliente.cs",
+              "RelativeDocumentMoniker": "Projetopetcare\\frmcliente.cs",
+              "ToolTip": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\frmcliente.cs [Design]",
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
               "RelativeToolTip": "Projetopetcare\\frmcliente.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:52:02.523Z",
@@ -128,6 +235,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "frmanimal.cs",
               "DocumentMoniker": "C:\\Users\\Renan\\Downloads\\atvnovembro-main\\Projetopetcare\\frmanimal.cs",
@@ -164,6 +272,17 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T20:10:45.946Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\Form1.cs",
+              "RelativeDocumentMoniker": "Projetopetcare\\Form1.cs",
+              "ToolTip": "C:\\Users\\SERVIDOR\\Desktop\\Projetopetcare\\Projetopetcare\\Form1.cs [Design]",
+              "RelativeToolTip": "Projetopetcare\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:51:16.643Z",
+              "EditorCaption": " [Design]"
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
             }
           ]
         }

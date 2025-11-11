@@ -11,6 +11,7 @@ C:\Users\SERVIDOR\Desktop\Projetopetcare\Projetopetcare\obj\Debug\Projetopetcare
 C:\Users\SERVIDOR\Desktop\Projetopetcare\Projetopetcare\obj\Debug\Projetopetcare.csproj.CoreCompileInputs.cache
 C:\Users\SERVIDOR\Desktop\Projetopetcare\Projetopetcare\obj\Debug\Projetopetcare.exe
 C:\Users\SERVIDOR\Desktop\Projetopetcare\Projetopetcare\obj\Debug\Projetopetcare.pdb
+<<<<<<< HEAD
 C:\Users\Renan\Downloads\atvnovembro-main\Projetopetcare\obj\Debug\Projetopetcare.csproj.AssemblyReference.cache
 C:\Users\Renan\Downloads\atvnovembro-main\Projetopetcare\obj\Debug\Projetopetcare.frmlogin.resources
 C:\Users\Renan\Downloads\atvnovembro-main\Projetopetcare\obj\Debug\Projetopetcare.frmanimal.resources
@@ -25,3 +26,5 @@ C:\Users\Renan\Downloads\atvnovembro-main\Projetopetcare\bin\Debug\Projetopetcar
 C:\Users\Renan\Downloads\atvnovembro-main\Projetopetcare\bin\Debug\Projetopetcare.exe
 C:\Users\Renan\Downloads\atvnovembro-main\Projetopetcare\bin\Debug\Projetopetcare.pdb
 C:\Users\Renan\Downloads\atvnovembro-main\Projetopetcare\obj\Debug\Projetopetcare.frmveterinario.resources
+=======
+>>>>>>> 0fe1e08dffd9732ebebffc15dbeaf7179dae1d3b
